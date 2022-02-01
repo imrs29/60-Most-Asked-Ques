@@ -15,7 +15,6 @@
     minimal stays minium element and traverse other element if profit is graeter than prev element update .
     tc = o(n)
     sc = o(1)
-
 */  
 
 #include<bits/stdc++.h>
